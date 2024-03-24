@@ -1,5 +1,8 @@
 # Welcome to Aljabar Linier
 
+Nama : Rizal Fadillah
+NIM  : 230411100009
+Kelas: IF2B
 <!-- This is a small sample book to give you a feel for how book content is
 structured.
 It shows off a few of the major file types, as well as some sample content.
